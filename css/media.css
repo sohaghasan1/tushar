@@ -1,0 +1,38 @@
+@media (max-width: 1199px){
+.banner-section .row {
+    min-height: 80vh;
+}
+	.feature h2 { 
+    font-size: 25px;
+}
+}
+@media (max-width: 991px){
+	.feature h2 { 
+    font-size: 20px;
+}
+.about-section h1 {
+    font-size: 30px !important;
+}
+.about-section { 
+	    background-size: 120%;
+    background-position: 60% bottom;
+}
+}
+@media (max-width: 767px){
+		.feature { 
+    margin-bottom: 50px;
+}
+.about-wapik{
+	text-align: center;
+}
+.about-section { 
+    background-image: url();
+}
+}
+@media (max-width: 575px){
+
+
+}
+@media (max-width: 420px){
+	
+}
